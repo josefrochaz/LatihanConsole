@@ -1,0 +1,6 @@
+Aqua, Minuman, 3000.0, 20
+Indomie, Makanan, 3000.0, 30
+Djarum Super, Rokok, 25000.0, 40
+Rendang, Makanan, 170000.0, 100
+Coca Cola, Minuman, 3000.0, 50
+Chiki Chuba, Makanan, 1000.0, 150
